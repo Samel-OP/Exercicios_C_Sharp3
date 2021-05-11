@@ -10,11 +10,10 @@ namespace ConsoleNomesBusca
 
             string[] nomesPergunta = new string[10];
 
-            bool refazer = false;
+            bool encontrar = false;
 
-            while (refazer == false)
+            while (encontrar == false)
             {
-                var u = 0;
 
                 for (i = 0; i < 10; i++)
                 {
@@ -22,25 +21,27 @@ namespace ConsoleNomesBusca
                     nomesPergunta[i] = Console.ReadLine().ToLower();
                 }
 
-                foreach (var item in nomesPergunta)
-                {
-                    Console.WriteLine($"{u}º nome: {nomesPergunta[u]}");
-                    u++;
-                }
-
-                Console.WriteLine("Está correto os nomes fornecidos? (s) se sim e (n) se não");
+                Console.Write("Escreva o nome que deseja buscar: ");
                 string correto = Console.ReadLine().ToLower();
 
-                if (correto == "s")
+                foreach (var item in nomesPergunta)
                 {
-                    Console.WriteLine("Tudo OK");
-                    refazer = true;
+                    if (correto == item)
+                    {
+                        encontrar = true;
+                    }
+                }
+
+                if (encontrar == true)
+                {
+                    Console.WriteLine("ACHEI!");
+                    encontrar = true;
                 }
 
                 else
                 {
-                    Console.WriteLine("Refaça o formulário!");
-                    refazer = false;
+                    Console.WriteLine("NÃO ACHEI");
+                    encontrar = true;
                 }
             }
         }
