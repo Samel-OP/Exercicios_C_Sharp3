@@ -19,24 +19,33 @@ namespace ConsoleProdutoDesconto
             {
                 double desconto = (valorProduto * quantidadeProduto) * 0.02;
                 double total = (valorProduto * quantidadeProduto) - desconto;
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($"Preço de cada {nomeProduto} é: R${valorProduto}");
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Desconto: R${desconto}");
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Total a pagar é: R${total}");
             }
             else if (quantidadeProduto > 5 && quantidadeProduto <= 10)
             {
                 double desconto = (valorProduto * quantidadeProduto) * 0.03;
                 double total = (valorProduto * quantidadeProduto) - desconto;
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($"Preço de cada {nomeProduto} é: R${valorProduto}");
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Desconto: R${desconto}");
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Total a pagar é: R${total}");
             }
             else if (quantidadeProduto > 10)
             {
                 double desconto = (valorProduto * quantidadeProduto) * 0.05;
                 double total = (valorProduto * quantidadeProduto) - desconto;
+                Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine($"Preço de cada {nomeProduto} é: R${valorProduto}");
+                Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"Desconto: R${desconto}");
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine($"Total a pagar é: R${total}");
             }
         }
