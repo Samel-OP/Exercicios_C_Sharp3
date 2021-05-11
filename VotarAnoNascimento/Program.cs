@@ -11,13 +11,20 @@ namespace VotarAnoNascimento
 
             int votar = DateTime.Now.Year - data;
 
-            if (votar >= 16)
+            if (votar >= 16 && votar < 18)
             {
-                Console.WriteLine("Você poderá votar esse ano!");
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Você PODERÁ votar esse ano!");
+            }
+            else if (votar >= 18)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("Você é DEVE votar esse ano!");
             }
             else
             {
-                Console.WriteLine("Você não vai poder votar esse ano!");
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Você NÃO pode votar esse ano!");
             }
         }
     }
