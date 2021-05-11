@@ -8,16 +8,18 @@ namespace ConsoleNumerosInverso
         {
             int[] numeros = new int[15];
 
-            for (var i = 0; i < 15; i++)
+            Console.WriteLine($"Insira {numeros.Length} numeros");
+
+            for (var i = 0; i < numeros.Length; i++)
             {
-                Console.WriteLine($"Escreva o {i + 1}° numero:");
+                Console.Write($"Escreva o {i + 1}° numero: ");
                 numeros[i] = int.Parse(Console.ReadLine());
             }
 
-            for (var u = 15; u > 0;)
+            for (var u = numeros.Length - 1; u >= 0; u--)
             {
-                Console.WriteLine($"numero: {u}");
-                u--;
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine($"numero: {numeros[u]}");
             }
         }
     }
