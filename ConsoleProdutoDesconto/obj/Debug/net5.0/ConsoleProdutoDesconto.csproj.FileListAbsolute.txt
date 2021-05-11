@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ref\ConsoleProdutoDesconto.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\bin\Debug\net5.0\ConsoleProdutoDesconto.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ref\ConsoleProdutoDesconto.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleProdutoDesconto\obj\Debug\net5.0\ConsoleProdutoDesconto.genruntimeconfig.cache

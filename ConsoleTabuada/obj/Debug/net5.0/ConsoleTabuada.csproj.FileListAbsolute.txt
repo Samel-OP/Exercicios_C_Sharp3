@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ref\ConsoleTabuada.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\bin\Debug\net5.0\ConsoleTabuada.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ref\ConsoleTabuada.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleTabuada\obj\Debug\net5.0\ConsoleTabuada.genruntimeconfig.cache

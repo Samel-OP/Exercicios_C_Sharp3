@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\ref\PostoDescontoCombustivel.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\bin\Debug\net5.0\PostoDescontoCombustivel.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\ref\PostoDescontoCombustivel.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\PostoDescontoCombustivel\obj\Debug\net5.0\PostoDescontoCombustivel.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ref\ConsoleDezValores.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\bin\Debug\net5.0\ConsoleDezValores.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ref\ConsoleDezValores.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleDezValores\obj\Debug\net5.0\ConsoleDezValores.genruntimeconfig.cache

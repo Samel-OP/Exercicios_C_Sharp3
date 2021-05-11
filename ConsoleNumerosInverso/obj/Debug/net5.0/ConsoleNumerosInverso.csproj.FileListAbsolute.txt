@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ref\ConsoleNumerosInverso.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\bin\Debug\net5.0\ConsoleNumerosInverso.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ref\ConsoleNumerosInverso.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNumerosInverso\obj\Debug\net5.0\ConsoleNumerosInverso.genruntimeconfig.cache

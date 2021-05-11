@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\ref\VotarAnoNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\bin\Debug\net5.0\VotarAnoNascimento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\ref\VotarAnoNascimento.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\VotarAnoNascimento\obj\Debug\net5.0\VotarAnoNascimento.genruntimeconfig.cache

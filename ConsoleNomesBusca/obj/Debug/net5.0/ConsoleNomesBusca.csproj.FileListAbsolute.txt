@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.exe
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.deps.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.runtimeconfig.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.runtimeconfig.dev.json
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ref\ConsoleNomesBusca.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\bin\Debug\net5.0\ConsoleNomesBusca.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.csprojAssemblyReference.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.AssemblyInfo.cs
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ref\ConsoleNomesBusca.dll
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.pdb
+C:\Users\samue\Documents\Desenvolvimento de sistemas\Projetos\Backend - projetos\Exercícios_3\ConsoleNomesBusca\obj\Debug\net5.0\ConsoleNomesBusca.genruntimeconfig.cache
